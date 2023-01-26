@@ -10,7 +10,7 @@
 
 * author0 name - netid
 * author1 name - netid
-* author2 Arnav - sgz6xd
+*  Arnav Singh - sgz6xd
 
 ## Description
 
